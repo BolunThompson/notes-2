@@ -1,0 +1,3 @@
+- nytimes headline size analysis
+- anime analysis
+- analysis of culture of anime & its escapism
