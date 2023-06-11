@@ -48,6 +48,9 @@ ideas:
 		https://github.com/hackclub/assemble/blob/main/the-event/swag.md
 		Give out small raspberry pico-esque things?
 			Like that one buisneiss card guy? IIRC it was like 2-3$ per card, so it's doable
+			NFC Cards instead?
+				Use for voting?
+			Use for a scavenger hunt, ctf, or arg?
 People:
 	Who has offered to help out
 		: Ask slack about how to handle multiple volunteers and training

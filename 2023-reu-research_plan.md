@@ -1,5 +1,6 @@
-# YT Enzo-E Octree Research Plan
+# YT Enzo-E Octree 
 {Authors}
+
 ## Notes
 ### Steps for YT
 1. Write front-end for YT to load Enzo-E data in an octree format
@@ -25,6 +26,7 @@ What should I include?
     Should I include a timeline?
         Maybe? Will they want it? Idc
     Should I detail the work that has already been done?
+
 ## Purpose (ie: abstract)
 `yt` is a software package for the analysis of volumetric data. It can interpret
 data in a varietry of formats; of note here, patch-based adaptive mesh

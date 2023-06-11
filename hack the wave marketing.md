@@ -21,6 +21,8 @@ Ideas:
 		Do people even use it?
 	Email old sandy hacks and code day attendees, ofc
 		get code day permission?
+	Dw wechat
+		Ask Melinda about it?
 Questions:
 	How many emails should I make to old sandy hacks attendees about future hackathons?
 		Hack the wave, but how about future code day events?

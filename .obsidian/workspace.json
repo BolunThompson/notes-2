@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hack the wave sponsorship.md",
+                "file": "hack the wave marketing.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hack the wave sponsorship.md",
+                "file": "hack the wave marketing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hack the wave sponsorship.md",
+                "file": "hack the wave marketing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hack the wave sponsorship.md"
+                "file": "hack the wave marketing.md"
               }
             }
           }
@@ -193,9 +193,12 @@
   },
   "active": "1052b31afbe8fa3b",
   "lastOpenFiles": [
+    "hack the wave.md",
+    "hack club comments.md",
+    "hack the wave sponsorship.md",
+    "hack the wave marketing.md",
     "LICENSE",
     "Ideas 2.md",
-    "hack the wave marketing.md",
     "2023 YT Internship notes.md",
     "9-7-22_next_project_ideas.md",
     "2023 Summer Plans.md",
@@ -211,14 +214,12 @@
     "qb todo.md",
     "Career.md",
     "cardcaptor_sakura_notes.md",
-    "hack club comments.md",
     "block_issue_notes.md",
     "12-31-22_todo.md",
     "meeting_notes_8-22.md",
     "Colleges to Apply To.md",
     "College Essay Prep Plan.md",
     "Untitled 1.md",
-    "hackathon_prep_2.md",
     "Untitled",
     "Untitled.canvas",
     "workshop_ideas.Basename",
@@ -228,7 +229,6 @@
     "todo_12_20_22.Basename",
     "todo_12-12-22.Basename",
     "TODO import notes from my other computer.Basename",
-    "qb_ideas.Basename",
-    "programming_ec_idea_9-10-22.Basename"
+    "qb_ideas.Basename"
   ]
 }
