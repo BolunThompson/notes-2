@@ -51,6 +51,8 @@ ideas:
 			NFC Cards instead?
 				Use for voting?
 			Use for a scavenger hunt, ctf, or arg?
+	Are buisneiss centers suitable as venues?
+		Contact whom? Owner or symphatehetic buisneiss?
 People:
 	Who has offered to help out
 		: Ask slack about how to handle multiple volunteers and training
