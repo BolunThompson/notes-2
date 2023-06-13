@@ -322,6 +322,7 @@ Early List:
 	ED I : Cornell if I like the school, otherwise it doesn't matter
 			TODO: Ask on /r/chanceme if my odds are good enough to hedge
 				And/or look at mom's supposed convo with a guidance counselor about if my oods are good for caltech, mit,, ucb
+				Ig maybe I should just follow my parents' advice and not -- idk also
 		I would be hedging my bets -- probably worth it, i don't think my odds at caltech/mit/stanford are good enough to not hedge
 			Cornell is a very good school 
 		EA: GT, UVA? (don't say whether they provide a bonus),
