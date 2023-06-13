@@ -320,8 +320,10 @@ Next Steps:
 Early List:
 	Assuming that I don't run a big-ass hackathon after ed before rd bc that would make me a more competitive rd applicant
 	ED I : Cornell if I like the school, otherwise it doesn't matter
+			TODO: Ask on /r/chanceme if my odds are good enough to hedge
+				And/or look at mom's supposed convo with a guidance counselor about if my oods are good for caltech, mit,, ucb
 		I would be hedging my bets -- probably worth it, i don't think my odds at caltech/mit/stanford are good enough to not hedge
-			Cornell is a very good school after all
+			Cornell is a very good school 
 		EA: GT, UVA? (don't say whether they provide a bonus),
 		Also MIT but no bonus provided
 	ED II : CMU??
@@ -330,7 +332,6 @@ Early List:
 				What if more expensive than NPC? Although I could appeal
 			But also UCB, Stanford, Caltech
 		If I want a LAC, carleton or HMC
-		Hedging my bets that I won't get into a high reach -- make sure this is the right thing to do
 		Only do if it's my best or equal with my other low reaches
 		TODO: Make sure it is the hardestr ed ii school with best ed bonus
 Takeaways:
