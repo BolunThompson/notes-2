@@ -53,6 +53,10 @@ ideas:
 			Use for a scavenger hunt, ctf, or arg?
 	Are buisneiss centers suitable as venues?
 		Contact whom? Owner or symphatehetic buisneiss?
+	Should we offer transportation to improve accessilbility?
+		How else to improve accesibility?
+		From Carlsbad, downtown, irvine, Chula vista?
+			Depending on where it is and interest
 People:
 	Who has offered to help out
 		: Ask slack about how to handle multiple volunteers and training
@@ -100,6 +104,7 @@ Questions:
 		Rn the only MS students allowed would be 8th graders, which limits attendance (& value in emailing middle schools)
 			Maybe add FAQ page about it? "Younger middle school students can come, but make sure they are mature"
 			Can they stay overnight
+	How to appeal to underpriveledgfed
 TODO:
 	How many people should be on the team?
 		rn planned to be 5 -- is that a good number? How many more can we take on?
