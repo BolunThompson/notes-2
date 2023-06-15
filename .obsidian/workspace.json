@@ -49,14 +49,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hack the wave.md",
+                "file": "Colleges to Apply To.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d0191272de93f2f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "outernet.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -130,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hack the wave.md",
+                "file": "outernet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hack the wave.md",
+                "file": "outernet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hack the wave.md"
+                "file": "outernet.md"
               }
             }
           }
@@ -191,12 +203,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1052b31afbe8fa3b",
+  "active": "d0191272de93f2f8",
   "lastOpenFiles": [
-    "hack the wave marketing.md",
     "Colleges to Apply To.md",
-    "College Essay Prep Plan.md",
+    "outernet.md",
+    "College Major.md",
     "hack the wave.md",
+    "hack the wave marketing.md",
+    "College Essay Prep Plan.md",
     "hack club comments.md",
     "hack the wave sponsorship.md",
     "LICENSE",
@@ -206,7 +220,6 @@
     "2023 Summer Plans.md",
     "1-30-23_priorities.md",
     "44 74 notes.md",
-    "College Major.md",
     "databases.md",
     "desmos_vm.md",
     "enzo_e_frontend_notes.md",
@@ -219,7 +232,6 @@
     "block_issue_notes.md",
     "12-31-22_todo.md",
     "meeting_notes_8-22.md",
-    "Untitled 1.md",
     "Untitled",
     "Untitled.canvas",
     "workshop_ideas.Basename",
