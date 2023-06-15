@@ -100,11 +100,12 @@ Questions:
 	After this event, how will organizing the next event be handled?
 		And how will be pass on the torch to underclassmen?
 	If we get out limited, small travel stipends, who should we give them to?
+		Those w/ out access to hackathons ordinarily?
 	Should we lower the age limit to middle schoolers?
 		Rn the only MS students allowed would be 8th graders, which limits attendance (& value in emailing middle schools)
 			Maybe add FAQ page about it? "Younger middle school students can come, but make sure they are mature"
 			Can they stay overnight
-	How to appeal to underpriveledgfed
+	How to appeal to underpriveledged students?
 TODO:
 	How many people should be on the team?
 		rn planned to be 5 -- is that a good number? How many more can we take on?
