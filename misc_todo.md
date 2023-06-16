@@ -53,3 +53,7 @@ Dw getting on private anime and j-pop tracker
 add vim to special code thing in discord
     get youtube music to consistently work in discord
 get better linux mergetool
+dw networking -- how can I?
+	Connect with people on linkedin and keep up with them?
+		through it?
+		meetups?

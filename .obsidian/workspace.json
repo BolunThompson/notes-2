@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "outernet.md",
+                "file": "misc_todo.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "outernet.md",
+                "file": "misc_todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "outernet.md",
+                "file": "misc_todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "outernet.md"
+                "file": "misc_todo.md"
               }
             }
           }
@@ -205,8 +205,9 @@
   },
   "active": "d0191272de93f2f8",
   "lastOpenFiles": [
-    "Colleges to Apply To.md",
+    "mn_next_steps_7-1-22.md",
     "outernet.md",
+    "Colleges to Apply To.md",
     "College Major.md",
     "hack the wave.md",
     "hack the wave marketing.md",
@@ -231,7 +232,6 @@
     "cardcaptor_sakura_notes.md",
     "block_issue_notes.md",
     "12-31-22_todo.md",
-    "meeting_notes_8-22.md",
     "Untitled",
     "Untitled.canvas",
     "workshop_ideas.Basename",
