@@ -61,14 +61,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hack the wave.md",
+                "file": "Colleges to Apply To.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hack the wave.md",
+                "file": "Colleges to Apply To.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hack the wave.md",
+                "file": "Colleges to Apply To.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hack the wave.md"
+                "file": "Colleges to Apply To.md"
               }
             }
           }
@@ -203,16 +203,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d0191272de93f2f8",
+  "active": "1052b31afbe8fa3b",
   "lastOpenFiles": [
+    "College Essay Prep Plan.md",
+    "Colleges to Apply To.md",
+    "College Major.md",
+    "hack the wave.md",
     "hack the wave marketing.md",
     "outernet.md",
     "misc_todo.md",
     "mn_next_steps_7-1-22.md",
-    "Colleges to Apply To.md",
-    "College Major.md",
-    "hack the wave.md",
-    "College Essay Prep Plan.md",
     "hack club comments.md",
     "hack the wave sponsorship.md",
     "LICENSE",

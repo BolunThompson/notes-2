@@ -8,6 +8,7 @@ Colleges (4 x 350 + 650):
 		Question: MIT vs CMU -- which to apply to?
 			Which am I a better fit for?
 			Also could remove other colleges and keep both
+				I have been doing that lately
 		Caltech (20k a year) (4 x 200)
 		Stanford (7k a year) (3 x 50 + 3 x 250)
 			REA: 3.7 -> 9.2
@@ -93,19 +94,6 @@ Colleges (4 x 350 + 650):
 					Major is accounted for, but not capped
 			EA for merit scholarships
 	High Target:
-		Cooper Union (21k) (3 x 250)
-			Is it a good fit for me bc less CS focus?
-				TODO: Email alumni who went into cs asking about it
-					Would he reccomend it?
-				On the other hand, I could just go into CE
-			Probably apply EE intending to go down the CE track
-				Do a very CS orientated CE track
-				Alternative: General Engineering major and take as many CS clases as possible
-					Maybe I could switch into the major after my first year if I think it's better?
-				TODO: Email Cooper Union admissions office to ask about whether I should apply as EE for CE or GE with CS
-			Quick impression is that it would be best to go into CE, not CS
-				Only apply if CE is still on the table for me
-					Do I like it? I might, but I've never tried it.
 		UCI
 			Major: CS
 				It might be easier to get in as CSE, but no data is given and it might be medium hard to transfer (I might be in the engineering school and I would have to transfer to the CS school)
@@ -139,7 +127,7 @@ Colleges (4 x 350 + 650):
 				Make sure to include MS and CC classes
 					And HPE CC course too, ig, although it most likely wouldn't matter since I most likely hit the honors cap
 						Maybe unnecessary if it is already considered an a-g course
-		UVA(18k) (250 + 100)?
+		(UVA(18k) (250 + 100)?)
 			EA: 8% -> 12%
 				Maybe EA or don't bother?
 			They don't cap majors!
@@ -148,10 +136,12 @@ Colleges (4 x 350 + 650):
 					For context, UCI is 9.1% for CS
 				Maybe I should just apply to UNC Chapel Hill instead?
 					Nah -- this is cheaper, slightly higher acceptance rate, and less supplementals
+				Maybe perdue instead?
 	Low Target
 		UC Davis
 			Probably better than UCSC, but it's close
-	High Safety:
+	High Safety?:
+		QUESTION: Should I just go to cc?
 		UC Santa Cruz (20.5k - 23.5 k before calgrant)
 		UCR
 	Low Safety
@@ -245,6 +235,19 @@ Ones I could add to tilt the colleges:
 			Actually has a qb team!
 			Good for international studies -- maybe bokei should apply if she's interested in the field?
 	Small Engineering
+		Cooper Union (21k) (3 x 250)
+			Is it a good fit for me bc less CS focus?
+				TODO: Email alumni who went into cs asking about it
+					Would he reccomend it?
+				On the other hand, I could just go into CE
+			Probably apply EE intending to go down the CE track
+				Do a very CS orientated CE track
+				Alternative: General Engineering major and take as many CS clases as possible
+					Maybe I could switch into the major after my first year if I think it's better?
+				TODO: Email Cooper Union admissions office to ask about whether I should apply as EE for CE or GE with CS
+			Quick impression is that it would be best to go into CE, not CS
+				Only apply if CE is still on the table for me
+					Do I like it? I might, but I've never tried it.
 	Medium Private
 		Case Western (21k)
 			Hesitantly not applying
@@ -279,7 +282,7 @@ Ones I could add to tilt the colleges:
 	Super Competitive Privates
 		John Hopkins (16k)
 			9.2% acceptance rate -- like cornell but just worse for CS?
-		(also duke, ig, but it's acceptance rate is 6% rd)
+		(harvard / princeton / columbia)
 Next Steps:
 	Switch all college emails to me@bolun.dev
 	Figure out, of my potential high reaches, which I have the best chance to get in to (ie: that I have the best fit for) and apply to those
@@ -420,7 +423,7 @@ Takeaways:
 	Idea: Take a shot of vodka everytime I get rejected from college lololol
 	You can get a PhD in a practical field like Civil Engineering -- therefore, an engineering college could help you go on to graduate school bc it gives you a practical degree
 	College compares:
-		SLO < Olin (hesitantly) < Cooper Union
+		Cooper Union < SLO < Olin (hesitantly)
 	New Calgrant and MCS Notes:
 		Under new system, we would not get a calgrant
 		MCS would provide us around 5200 with current funding levels, so around 20000 if fully funded
