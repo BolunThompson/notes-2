@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "misc_todo.md",
+                "file": "outernet.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "misc_todo.md",
+                "file": "outernet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "misc_todo.md",
+                "file": "outernet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "misc_todo.md"
+                "file": "outernet.md"
               }
             }
           }
@@ -205,6 +205,7 @@
   },
   "active": "d0191272de93f2f8",
   "lastOpenFiles": [
+    "misc_todo.md",
     "mn_next_steps_7-1-22.md",
     "outernet.md",
     "Colleges to Apply To.md",
@@ -224,7 +225,6 @@
     "databases.md",
     "desmos_vm.md",
     "enzo_e_frontend_notes.md",
-    "misc_todo.md",
     "Untitled 2.md",
     "BHMS QB Improvement.md",
     "qb todo.md",
