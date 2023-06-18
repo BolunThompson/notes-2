@@ -57,6 +57,9 @@ ideas:
 		How else to improve accesibility?
 		From Carlsbad, downtown, irvine, Chula vista?
 			Depending on where it is and interest
+	Run a hackathon in hong kong later?
+		@zrl has said before he might be reluctant due to political concerns
+		ask opinion of hk people at outernet (if they exist) and/or sam poder?
 People:
 	Who has offered to help out
 		: Ask slack about how to handle multiple volunteers and training
