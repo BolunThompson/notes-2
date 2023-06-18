@@ -282,7 +282,7 @@ Ones I could add to tilt the colleges:
 	Super Competitive Privates
 		John Hopkins (16k)
 			9.2% acceptance rate -- like cornell but just worse for CS?
-		(harvard / princeton / columbia)
+		(harvard / princeton / columbia / yale)
 Next Steps:
 	Switch all college emails to me@bolun.dev
 	Figure out, of my potential high reaches, which I have the best chance to get in to (ie: that I have the best fit for) and apply to those
@@ -455,6 +455,9 @@ Takeaways:
 			Maybe CU could do this
 Questions:
 	Is Cooper Union actually good for electrical engineering / computer engineering?
+	Should I care about this list?
+		https://www.wsj.com/articles/top-colleges-high-paying-jobs-software-5ce461f8
+		Dartmouth, sjsu
 	Should I ask Matt Turk for an additional letter of reccomendatio?
 		Yes, probably, if the internship goes well
 			Especially if I continue working for him after the summer
