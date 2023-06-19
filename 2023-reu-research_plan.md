@@ -66,8 +66,7 @@ those frontends using the octree facilities.
 
 ### Previous Work
 In the summer of 2022, preliminary work was done refactoring the `yt` code to
-support loading in Enzo-E data as an octree. In addition, a script to load
-the data into `yt` manually was written.
+support loading in Enzo-E data as an octree, as well as exploratory scripts.
 
 ## Objectives
 1. Write and test a frontend for `yt` to load Enzo-E data in an octree format
