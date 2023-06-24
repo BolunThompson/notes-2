@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "oshi no ko analysis.md",
+                "file": "date_ideas.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -154,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "oshi no ko analysis.md",
+                "file": "date_ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "oshi no ko analysis.md",
+                "file": "date_ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "oshi no ko analysis.md"
+                "file": "date_ideas.md"
               }
             }
           }
@@ -217,6 +218,8 @@
   },
   "active": "f3d012168fab23b6",
   "lastOpenFiles": [
+    "oshi no ko analysis.md",
+    "date_ideas.md",
     "Asciidoctor.md",
     "erica conversation starters.md",
     "2023-reu-research_plan.md",
@@ -244,8 +247,6 @@
     "enzo_e_frontend_notes.md",
     "Untitled 2.md",
     "BHMS QB Improvement.md",
-    "qb todo.md",
-    "Career.md",
     "Untitled",
     "Untitled.canvas",
     "workshop_ideas.Basename",
