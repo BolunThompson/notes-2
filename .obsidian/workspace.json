@@ -56,6 +56,18 @@
             }
           },
           {
+            "id": "f3d012168fab23b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "oshi no ko analysis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "d0191272de93f2f8",
             "type": "leaf",
             "state": {
@@ -68,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -142,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-reu-research_plan.md",
+                "file": "oshi no ko analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-reu-research_plan.md",
+                "file": "oshi no ko analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-reu-research_plan.md"
+                "file": "oshi no ko analysis.md"
               }
             }
           }
@@ -203,8 +215,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1052b31afbe8fa3b",
+  "active": "f3d012168fab23b6",
   "lastOpenFiles": [
+    "Asciidoctor.md",
+    "erica conversation starters.md",
+    "2023-reu-research_plan.md",
     "2023-reu-research_plan.md~",
     "4913",
     "2023 Summer Plans.md",
@@ -231,8 +246,6 @@
     "BHMS QB Improvement.md",
     "qb todo.md",
     "Career.md",
-    "cardcaptor_sakura_notes.md",
-    "block_issue_notes.md",
     "Untitled",
     "Untitled.canvas",
     "workshop_ideas.Basename",
@@ -240,7 +253,6 @@
     "which_functional_language.Basename",
     "web_stack_notes.Basename",
     "todo_12_20_22.Basename",
-    "todo_12-12-22.Basename",
-    "TODO import notes from my other computer.Basename"
+    "todo_12-12-22.Basename"
   ]
 }
