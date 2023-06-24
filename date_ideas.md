@@ -11,6 +11,7 @@ options:
         animal shelter, but who does that
     poway lake / hiking 
     barnes & noble
+	    
     museuem
     geocaching
     the mall or mall like places
