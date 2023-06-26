@@ -5,7 +5,9 @@ csl: "yt.csl"
 title: "Octree Frontend for Enzo-E in YT"
 author: 
     - Bolun Thompson:
-        institute: "2023 Summer REU Extra Help Intern"
+        # I'm not sure if it's accurate, but this is how Olena
+        # described my position as
+        institute: "REU FoDoMMaT Visiting Scholar"
     - Matthew Turk:
         institute: "Assistant Professor at the School of Information Sciences"
 date: "June 20th, 2023"
@@ -34,18 +36,16 @@ Cello, a highly scalable parallel array-of-octree AMR framework [@bordner2018].
 
 The eventual purpose of Enzo-E is to run exascale astrophysical simulations;
 however, the current Enzo-E frontend for `yt` restricts the analysis of the
-generated datasets of size $ > 256^3 $ blocks due to performance bottlenecks,
-namely building the spatial index of the data. Enzo-E has been used to generate
-datasets of size $ 2048^3 $ blocks ($\approx 1$ TB), which cannot be currently
-analyzed with `yt`.
+generated datasets of size $2048^3$ blocks ($\approx 1$ TB) due to performance bottlenecks. The
+primary performance bottleneck is loading the data and building an index of that
+data.
 
 One reason for this is that the current Enzo-E frontend interprets the octree
 data as a collection of grids, not as an array of octrees---a legacy of Enzo's
 grid-based design. Building the index for a grid-based format necessitates the
-instantiation of a Python object for each grid. Octs are instead indexed as
-structures at most 88 bytes large. Octs avoid both the overhead associated with
-Python objects and their extra space requirements ($\approx 1$ KB). This leads
-to octree-based frontends generally being faster to index than grid-based
+inefficient instantiation of a Python object for each grid, in contrast to Octs,
+which are instead efficiently indexed as structures at most 88 bytes large. This
+leads to octree-based frontends generally being faster to load than grid-based
 frontends, motivating our project to implement an octree-based Enzo-E frontend
 for `yt`. However, further work may be necessary to optimize the new frontend to
 take advantage of the new design.
