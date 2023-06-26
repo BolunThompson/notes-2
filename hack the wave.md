@@ -110,11 +110,12 @@ Questions:
 			Can they stay overnight
 	How to appeal to underpriveledged students?
 TODO:
-	How many people should be on the team?
-		rn planned to be 5 -- is that a good number? How many more can we take on?
-	(Early June?) send a reminder email to Phelan about regular sh meetings IF I have time to organize them
-		Also maybe get funding -- if he isn't immeadiately interested, is the funding possible?
-			Maybe
+	Send more  venue emails
+	Find more venues
+		HQs
+		maybe theatres and churches?
+	Send more youtuber merch sponsorship emails
+	Find in-kind prize sponsors?
 Takeaways:
 	Goal: 7 emails per day when I'm unoccupied with other hackathon work, so perhaps 3.5 a day average
 	Try to specialize in something: sponsorship, marketing, or something else

@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "big purchases.md",
+                "file": "hack the wave.md",
                 "mode": "source",
                 "source": false
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "big purchases.md",
+                "file": "hack the wave.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "big purchases.md",
+                "file": "hack the wave.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "big purchases.md"
+                "file": "hack the wave.md"
               }
             }
           }
@@ -229,8 +229,9 @@
   },
   "active": "a326afdd169827b9",
   "lastOpenFiles": [
-    "date_ideas.md",
+    "bolun_thompson_research_plan.pdf",
     "big purchases.md",
+    "date_ideas.md",
     "oshi no ko analysis.md",
     "Asciidoctor.md",
     "erica conversation starters.md",
@@ -257,7 +258,6 @@
     "databases.md",
     "desmos_vm.md",
     "enzo_e_frontend_notes.md",
-    "Untitled 2.md",
     "Untitled",
     "Untitled.canvas",
     "workshop_ideas.Basename",
