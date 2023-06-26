@@ -68,6 +68,18 @@
             }
           },
           {
+            "id": "a326afdd169827b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "big purchases.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "d0191272de93f2f8",
             "type": "leaf",
             "state": {
@@ -80,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -109,7 +121,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "gpu",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -134,8 +146,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -155,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "date_ideas.md",
+                "file": "big purchases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "date_ideas.md",
+                "file": "big purchases.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "date_ideas.md"
+                "file": "big purchases.md"
               }
             }
           }
@@ -216,10 +227,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f3d012168fab23b6",
+  "active": "a326afdd169827b9",
   "lastOpenFiles": [
-    "oshi no ko analysis.md",
     "date_ideas.md",
+    "big purchases.md",
+    "oshi no ko analysis.md",
     "Asciidoctor.md",
     "erica conversation starters.md",
     "2023-reu-research_plan.md",
@@ -246,7 +258,6 @@
     "desmos_vm.md",
     "enzo_e_frontend_notes.md",
     "Untitled 2.md",
-    "BHMS QB Improvement.md",
     "Untitled",
     "Untitled.canvas",
     "workshop_ideas.Basename",
