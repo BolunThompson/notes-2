@@ -44,6 +44,10 @@ ideas:
 	Biotech hackathon
 		w/ igem?
 		like biohacks in boston
+	Hong Kong hackathon?
+		A HQ event would be nice but political reasons they don't like it
+		A non hq event could be hard to organize without people in hk
+		Mom suggested contact old junior academy hk girl, but idk if she's interested and if I have her contact info
 	Swag:
 		https://github.com/hackclub/assemble/blob/main/the-event/swag.md
 		Give out small raspberry pico-esque things?
