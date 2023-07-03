@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Colleges to Apply To.md",
+                "file": "Career.md",
                 "mode": "source",
                 "source": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Colleges to Apply To.md",
+                "file": "Career.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Colleges to Apply To.md",
+                "file": "Career.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Colleges to Apply To.md"
+                "file": "Career.md"
               }
             }
           }
@@ -225,12 +225,17 @@
   },
   "active": "a326afdd169827b9",
   "lastOpenFiles": [
+    "Fall 2023 plan.md",
+    "fall_2022.md",
+    "Career.md",
+    "blog_post_ideas.md",
+    "bolun_thompson_research_plan.pdf",
+    "cardcaptor_sakura_notes.md",
+    "ca_election_2022.md",
+    "Colleges to Apply To.md",
     "outernet.md",
     "hack the wave.md",
     "erica conversation starters.md",
-    "blog_post_ideas.md",
-    "bolun_thompson_research_plan.pdf",
-    "ca_election_2022.md",
     "big purchases.md",
     "date_ideas.md",
     "oshi no ko analysis.md",
@@ -240,7 +245,6 @@
     "4913",
     "2023 Summer Plans.md",
     "2023 YT Internship notes.md",
-    "Colleges to Apply To.md",
     "College Essay Prep Plan.md",
     "College Major.md",
     "hack the wave marketing.md",
@@ -251,10 +255,6 @@
     "LICENSE",
     "Ideas 2.md",
     "9-7-22_next_project_ideas.md",
-    "1-30-23_priorities.md",
-    "44 74 notes.md",
-    "databases.md",
-    "desmos_vm.md",
     "Untitled",
     "Untitled.canvas",
     "workshop_ideas.Basename",

@@ -9,12 +9,14 @@ date: "July 6th, 2023"
 ---
 
 ## Simulations
+- Formation of stars, galaxies
 ### Why
 ### What
+- Enzo
 #### Enzo & Enzo-E
 ### Scale
 ## YT
 ## Problem
 ## Grids vs Octs
 ## Challenges
-## Refernces?
+## References?
