@@ -118,6 +118,7 @@ TODO:
 	Find more venues
 		HQs
 		maybe theatres and churches?
+		Maybe a smaller place with a large outdoor area?
 	Send more youtuber merch sponsorship emails
 	Find in-kind prize sponsors?
 Takeaways:

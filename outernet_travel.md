@@ -4,6 +4,8 @@ united 737 - 515 ish
 spirit - with carry-on, 440 ish
 jetblue -w/ out carry-on, 497 ish sketchily, 540 ish normal
 
+, 284 back
+
 book plane ticket
 symphosium july 26th
     abstract due july 21st
