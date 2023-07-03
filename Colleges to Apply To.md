@@ -87,12 +87,19 @@ Colleges (4 x 350 + 650):
 			Con: Low acceptance rate
 			Probably apply Engineering: Computing
 				Despite being an engineering school, seems to have a decent CS program
-		Georgia Tech (after average merit 29k a year) (300)?
+		Georgia Tech (after average merit 30k a year) (300)?
 			A bit expensive
+			The aid does not include loan debt
+				Max loan debt 35k for me
+					for 30k a year phd student with 15% of income going to it aiming to pay it off in 10 years
+					With GT it would be 20k if parents pay 25k a year, so that would be reasonable-ish
+				Depends on fin aid offer
 			13% acceptance rate oos (maybe real number lower bc it only has beter applicants)
 				I think it's the same for CS
 					Major is accounted for, but not capped
 			EA for merit scholarships
+			On the other hand, I might get into a comparable UC, so maybe not worth it?
+				Could still apply though in case I don't
 	High Target:
 		UCI
 			Major: CS

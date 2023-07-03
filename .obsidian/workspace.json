@@ -47,12 +47,8 @@
             "id": "1052b31afbe8fa3b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2023-reu-research_plan.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -73,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "outernet.md",
+                "file": "Colleges to Apply To.md",
                 "mode": "source",
                 "source": false
               }
@@ -166,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "outernet.md",
+                "file": "Colleges to Apply To.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "outernet.md",
+                "file": "Colleges to Apply To.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "outernet.md"
+                "file": "Colleges to Apply To.md"
               }
             }
           }
@@ -229,6 +225,7 @@
   },
   "active": "a326afdd169827b9",
   "lastOpenFiles": [
+    "outernet.md",
     "hack the wave.md",
     "erica conversation starters.md",
     "blog_post_ideas.md",
@@ -247,7 +244,6 @@
     "College Essay Prep Plan.md",
     "College Major.md",
     "hack the wave marketing.md",
-    "outernet.md",
     "misc_todo.md",
     "mn_next_steps_7-1-22.md",
     "hack club comments.md",
