@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hack the wave.md",
+                "file": "outernet.md",
                 "mode": "source",
                 "source": false
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hack the wave.md",
+                "file": "outernet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hack the wave.md",
+                "file": "outernet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hack the wave.md"
+                "file": "outernet.md"
               }
             }
           }
@@ -229,11 +229,11 @@
   },
   "active": "a326afdd169827b9",
   "lastOpenFiles": [
+    "hack the wave.md",
     "erica conversation starters.md",
     "blog_post_ideas.md",
     "bolun_thompson_research_plan.pdf",
     "ca_election_2022.md",
-    "hack the wave.md",
     "big purchases.md",
     "date_ideas.md",
     "oshi no ko analysis.md",
