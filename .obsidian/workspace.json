@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Career.md",
+                "file": "College Essay Prep Plan.md",
                 "mode": "source",
                 "source": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Career.md",
+                "file": "College Essay Prep Plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Career.md",
+                "file": "College Essay Prep Plan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Career.md"
+                "file": "College Essay Prep Plan.md"
               }
             }
           }
@@ -225,9 +225,9 @@
   },
   "active": "a326afdd169827b9",
   "lastOpenFiles": [
+    "Career.md",
     "Fall 2023 plan.md",
     "fall_2022.md",
-    "Career.md",
     "blog_post_ideas.md",
     "bolun_thompson_research_plan.pdf",
     "cardcaptor_sakura_notes.md",
