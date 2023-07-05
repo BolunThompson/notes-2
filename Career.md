@@ -5,3 +5,18 @@ After college apps are over, explore fields to see if i want to make them my car
 		Maybe specifically cluster computing
 			Attend the 2024 IEEE Cluster Conference and apply for their student mentoring program, if that still exists?
 	Simulation / Scientific Computing / HPC work like my internship
+I:
+	want to work on hard problems
+		Ex:
+			Academia
+			Industry Research
+			Reseach Engineer
+			Quant
+			Some software engineering
+	don't want to do unimpactful work
+		Ex: building crud app #1324
+
+Question:
+	What major for it?
+	What path should I try to take for it?
+	
