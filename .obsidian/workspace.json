@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College Essay Prep Plan.md",
+                "file": "Colleges to Apply To.md",
                 "mode": "source",
                 "source": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "College Essay Prep Plan.md",
+                "file": "Colleges to Apply To.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "College Essay Prep Plan.md",
+                "file": "Colleges to Apply To.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "College Essay Prep Plan.md"
+                "file": "Colleges to Apply To.md"
               }
             }
           }
@@ -225,6 +225,12 @@
   },
   "active": "a326afdd169827b9",
   "lastOpenFiles": [
+    "2023-reu/lightning-talk.md~",
+    "2023-reu/4913",
+    "2023-reu/lightning-talk.pdf",
+    "2023-reu/yt.csl",
+    "2023-reu/new2.jpg",
+    "College Essay Prep Plan.md",
     "Career.md",
     "Fall 2023 plan.md",
     "fall_2022.md",
@@ -245,7 +251,6 @@
     "4913",
     "2023 Summer Plans.md",
     "2023 YT Internship notes.md",
-    "College Essay Prep Plan.md",
     "College Major.md",
     "hack the wave marketing.md",
     "misc_todo.md",
@@ -254,13 +259,9 @@
     "hack the wave sponsorship.md",
     "LICENSE",
     "Ideas 2.md",
-    "9-7-22_next_project_ideas.md",
     "Untitled",
     "Untitled.canvas",
     "workshop_ideas.Basename",
-    "window_terminal_issues.Basename",
-    "which_functional_language.Basename",
-    "web_stack_notes.Basename",
-    "todo_12_20_22.Basename"
+    "window_terminal_issues.Basename"
   ]
 }

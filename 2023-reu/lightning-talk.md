@@ -14,8 +14,10 @@ date: "July 6th, 2023"
 ## Volumetric Simulations
 - Formation of stars and galaxies
 - Nuclear reactor mechanics
+
 # Why?
 Connects theories with data
+
 ## What
 - Enzo: **Adaptive Mesh Refinement** (AMR) astrophysical simulation code
     [@Bryan_2014]
@@ -24,6 +26,7 @@ Adaptive Mesh Refinement
     ~ Increase simulation accuracy in turbulent or interesting parts
     ~ Inconsistent
 ![Block AMR](block_amr.png)
+
 ## Enzo-E
 - Enzo-E: Rearchitecture of Enzo for exascale computing [@bordner2018]
     - Datasets $ >1 $ TB or $ >2048^3 $ blocks
@@ -36,6 +39,7 @@ Array-of-octree
     ~ 3D Array of Octrees
     ~ Easily parallelizable
 ![Octree](apple_3d_octree.png)
+
 ## yt
 - yt: Python analysis and visualization package [@turk]
 - For any type of volumetric data 
@@ -47,34 +51,44 @@ Array-of-octree
     - Array-of-octree
 ![Slice over z axis of density](galaxy0030_Slice_z_density.png)
 ![3D visualization of density](galaxy0030_3dviz.png)
+
 # Problem
 Enzo-E analysis in yt is slow!
+
 ## Problem
 - Slow on large datasets
 - Can't practically analyze enzo-e datasets of over $256^3$ blocks
     - $256^3$ blocks -> multiple hours to load in the data
 - Needs to analyze datasets of size $2048^3$ blocks
     - $\approx 1$ TB
+
 ## Current Frontend
 - Collection of grids
     - Each grid is a python object
         - $\approx 1$ KB
 - Largely single threaded
+
 ## New frontend
 - Array of Octree
 - Multithreaded
 - Each Oct is a c struct
     - at most 88 bytes
+
 ## Result
 - Faster
 - Can analyze datasets of size $2048^3 blocks$
     - $\approx 1$ TB
+
 ## Current Status
 - New frontend is partially built
-- Incorrect visualizations {add plot}
+- Non refined data can be loaded in
+- Visualizations are incorrect
+![Rotated Hi](new2.jpg)
+
 ## Future Work
 - New frontend is unoptimized
     - Initially slower
 - Other simulation codes interpreted as grid-based, not oct-based
+
 ## References
 
