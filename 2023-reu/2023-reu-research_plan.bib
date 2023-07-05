@@ -49,3 +49,16 @@ archivePrefix = {arXiv},
       archivePrefix={arXiv},
       primaryClass={astro-ph.IM}
 }
+@article{dunning2020,
+title = {Adaptive mesh refinement in the fast lane},
+journal = {Journal of Computational Physics},
+volume = {406},
+pages = {109193},
+year = {2020},
+issn = {0021-9991},
+doi = {https://doi.org/10.1016/j.jcp.2019.109193},
+url = {https://www.sciencedirect.com/science/article/pii/S0021999119308988},
+author = {D. Dunning and W. Marts and R.W. Robey and P. Bridges},
+keywords = {Adaptive Mesh Refinement, Cell-based AMR, Patch-based AMR, Phantom cells},
+abstract = {This paper presents an approach for constructing an adaptive mesh refinement (AMR) scheme, targeting next-generation computing hardware. The key to the design is the particular combination of aspects of cell-based AMR and patch-based AMR. We examine the feasibility of this new method with respect to correctness, preservation of circular symmetry, ease of programming and performance impacts on runtime and memory usage. This method exploration is done in CLAMR, a cell-based AMR mini-app that already runs on GPUs and other next-generation hardware platforms. The composability of the application is improved by decoupling the physics code and mesh code. Each level of the mesh is made independent through the use of phantom cells. The net result is a clear pathway to getting the full application on the GPU while also minimizing development requirements to convert a regular grid application to AMR.}
+}
