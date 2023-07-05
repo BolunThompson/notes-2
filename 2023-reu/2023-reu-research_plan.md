@@ -36,9 +36,9 @@ Cello, a highly scalable parallel array-of-octree AMR framework [@bordner2018].
 
 The eventual purpose of Enzo-E is to run exascale astrophysical simulations;
 however, the current Enzo-E frontend for `yt` restricts the analysis of the
-generated datasets of size $2048^3$ blocks ($\approx 1$ TB) due to performance bottlenecks. The
-primary performance bottleneck is loading the data and building an index of that
-data.
+generated datasets of size $2048^3$ blocks ($\approx 1$ TB) due to performance
+bottlenecks. The primary performance bottleneck is loading the data and building
+an index of that data.
 
 One reason for this is that the current Enzo-E frontend interprets the octree
 data as a collection of grids, not as an array of octrees---a legacy of Enzo's

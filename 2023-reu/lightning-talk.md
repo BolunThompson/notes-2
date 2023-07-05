@@ -35,7 +35,7 @@ Octree:
 Array-of-octree
     ~ 3D Array of Octrees
     ~ Easily parallelizable
-![Array of Octree AMR](apple_3d_octree.png)
+![Octree](apple_3d_octree.png)
 ## yt
 - yt: Python analysis and visualization package [@turk]
 - For any type of volumetric data 
