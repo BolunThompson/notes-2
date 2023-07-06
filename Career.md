@@ -24,7 +24,7 @@ Question:
 	What major for it?: See [[College Major]]
 	What path should I try to take for it?
 Options:
-	CS degree -> Theory
+	CS degree -> Systems
 	CE degree -> Hardware
 	CS and subskill, or field degree and subskill -> Application
 		The computational science route
@@ -48,6 +48,8 @@ Techical jobs:
 	Research
 	Backend Gaming
 QUESTION:
+	Of the 3 career options, which is best?
+		Leaning toward applications. But systems are nice.
 	If I do a physics PhD, what are my eventual path? Which are these are likely or reasonable?
 		: What are the chances that I can't do one?
 		Data Science
@@ -56,6 +58,8 @@ QUESTION:
 		Scientific Software worker?
 			Simulation work?
 		Quant
+	Vs applied Math degree?
+	Physics PhD vs CS PhD competiveness
 	How should I change my college list?
 		Up UPenn and Penn State?
 		Check US News
