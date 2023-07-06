@@ -29,4 +29,7 @@ Options:
 	CS degree -> Theory
 	CE degree -> Hardware
 	CS and subskill, or field degree and subskill -> Application
+		Subskill in career or grad school
+		Field degree might honestly be easier -- it's more direct into the work
+	
 	
