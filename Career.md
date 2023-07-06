@@ -16,12 +16,13 @@ I:
 				There's a fine line between boring, unimpactful work and genuingy interesting work
 	don't want to do unimpactful work
 		Ex: building crud app #1324
+		["Avoid the api mines"](https://www.reddit.com/r/cscareerquestions/comments/rt8i7n/i_got_a_degree_for_this/)
 To work on hard, interesting problems, a graduate degree might honestly be the best option
 	Escapes me from standard SWE work
 
 Question:
 	What major for it?
-		CS, because it's more direct. Although there's a good chance I'll still have to subskill into an application, no matter what I learn the basic skills.
+		CS, because it's more direct into learning the skills. Although there's a good chance I'll still have to subskill into an application, no matter what I learn the basic skills.
 			Although physics and doing the opposite is still tempting
 			I either subskill, or I do hardware or theory
 	What path should I try to take for it?
@@ -31,5 +32,11 @@ Options:
 	CS and subskill, or field degree and subskill -> Application
 		Subskill in career or grad school
 		Field degree might honestly be easier -- it's more direct into the work
-	
-	
+		Applied math vs Physics vs Some subdiscipline therein
+QUESTION: If I major in physics or applied math, could I use that degree to work on hard, interesting, technical problems with programming, and would it be more efficient than a CS degree (and maybe PhD)?
+	On the otherhand, post physics PhD software engineer career path doesn't seem that good...
+		But vs post CS degree technical work?
+Techical jobs:
+	Embedded
+	Research
+	Backend Gaming
