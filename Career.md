@@ -48,9 +48,14 @@ Techical jobs:
 	Research
 	Backend Gaming
 QUESTION:
-	If I do a physics PhD, what are my eventual path?
+	If I do a physics PhD, what are my eventual path? Which are these are likely or reasonable?
+		: What are the chances that I can't do one?
 		Data Science
 		HPC Work
 		Researcher
 		Scientific Software worker?
 			Simulation work?
+		Quant
+	How should I change my college list?
+		Up UPenn and Penn State?
+		Check US News
