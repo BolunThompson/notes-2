@@ -30,7 +30,12 @@ Options:
 	CS degree -> Theory
 	CE degree -> Hardware
 	CS and subskill, or field degree and subskill -> Application
+		The computational science route
+		Path: (computational?) physics → PhD → Research Engineer making big money
 		Field degree path would be to work on scientific software then transition into research in that field with scientific software or industry with the skills i built up (probably the latter)
+			HPC, distributed computing?
+			Computer graphics
+				Spooky thing is that it could get me into film or game dev, which I want to avoid
 		Subskill in career or grad school
 		Field degree might honestly be easier -- it's more direct into the work
 		Applied math vs Physics vs Some subdiscipline therein
@@ -38,7 +43,9 @@ QUESTION: If I major in physics or applied math, could I use that degree to work
 	On the otherhand, post physics PhD software engineer career path doesn't seem that good...
 		But vs post CS degree technical work?
 	Like this? https://www.reddit.com/r/cscareerquestions/comments/6kjjob/software_engineering_opportunities_in_the/djmo9gh/
+	Or this? https://www.simplyhired.com/job/x4NE2K1vUAyZjXvVZEBn7hW4hA76FHtTlQ6DbSOvOocOZ24aK_hIYg
 	It's hard to compare -- only ancedotes
+Maybe just pick based on what is best for the school?
 Techical jobs:
 	Embedded
 	Research
