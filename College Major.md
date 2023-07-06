@@ -1,5 +1,6 @@
 First choices:
-	Computer Science: Probably first choice
+	(Computational) Physics: first choice
+	Computer Science: Alternative first choice
 	Computer Engineering / EECS: Leaning against bc too hardware focused, hard to double major
 		Same with Computer Science Engineering, despite that being more software
 		If i can easily transfer to CS and this has a higher acceptance rate, apply to this
@@ -9,8 +10,8 @@ First choices:
 		If it isn't impacted, mabybe second choice
 Second Choice
 	: best major for mathy cs like ml
-	Math CS: Definitely second choice if an option
-		In UCs, only UCSD and UCM offer this, so apply for UCSD
+	Applied Math, Math: Applied Science, or Math CS: Second Choice
+		In UCs, only UCSD and UCM offer Math CS, so apply for UCSD
 	Math vs Applied Math vs Statistics: Choose best for CS
 	Math-Economics joint major: if an option, second choice maybe?
 		Do I like Econ?

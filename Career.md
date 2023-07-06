@@ -22,9 +22,7 @@ To work on hard, interesting problems, a graduate degree might honestly be the b
 
 Question:
 	What major for it?
-		CS, because it's more direct into learning the skills. Although there's a good chance I'll still have to subskill into an application, no matter what I learn the basic skills.
-			Although physics and doing the opposite is still tempting
-			I either subskill, or I do hardware or theory
+		See [[College Major]]
 	What path should I try to take for it?
 Options:
 	CS degree -> Theory

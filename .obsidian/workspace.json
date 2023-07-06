@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Career.md",
+                "file": "College Major.md",
                 "mode": "source",
                 "source": false
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Career.md",
+                "file": "College Major.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Career.md",
+                "file": "College Major.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Career.md"
+                "file": "College Major.md"
               }
             }
           }
@@ -236,14 +236,14 @@
   },
   "active": "eb934159b4071665",
   "lastOpenFiles": [
-    "College Major.md",
     "Career.md",
-    "cardcaptor_sakura_notes.md",
+    "College Major.md",
     "College Essay Prep Plan.md",
+    "Colleges to Apply To.md",
+    "cardcaptor_sakura_notes.md",
     "scientific writing seminar notes.md",
     "bolun_thompson_research_plan.pdf",
     "Ideas 2.md",
-    "Colleges to Apply To.md",
     "2023-reu/lightning-talk.md~",
     "2023-reu/4913",
     "2023-reu/lightning-talk.pdf",
