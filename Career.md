@@ -41,15 +41,17 @@ QUESTION: If I major in physics or applied math, could I use that degree to work
 		But vs post CS degree technical work?
 	Like this? https://www.reddit.com/r/cscareerquestions/comments/6kjjob/software_engineering_opportunities_in_the/djmo9gh/
 	Or this? https://www.simplyhired.com/job/x4NE2K1vUAyZjXvVZEBn7hW4hA76FHtTlQ6DbSOvOocOZ24aK_hIYg
-	It's hard to compare -- only ancedotes
+	It's hard to compare -- only anecdotes
 Maybe just pick based on what is best for the school?
-Techical jobs:
+Technical jobs:
 	Embedded
 	Research
 	Backend Gaming
 QUESTION:
 	Of the 3 career options, which is best?
-		Leaning toward applications. But systems are nice. And hardware.
+		Leaning toward Physics/applications.
+			Seems more likely to do real, interesting work than Systems/CS
+			Not interested enough in Hardware/CE
 	If I do a physics PhD, what are my eventual path? Which are these are likely or reasonable?
 		: What are the chances that I can't do one?
 		Data Science
@@ -60,6 +62,7 @@ QUESTION:
 		Quant
 	Vs applied Math degree?
 	Physics PhD vs CS PhD competiveness
+		About the same
 	How should I change my college list?
 		Up UPenn and Penn State?
 		Check US News
