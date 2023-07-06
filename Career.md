@@ -21,8 +21,7 @@ To work on hard, interesting problems, a graduate degree might honestly be the b
 	Escapes me from standard SWE work
 
 Question:
-	What major for it?
-		See [[College Major]]
+	What major for it?: See [[College Major]]
 	What path should I try to take for it?
 Options:
 	CS degree -> Theory
@@ -48,3 +47,10 @@ Techical jobs:
 	Embedded
 	Research
 	Backend Gaming
+QUESTION:
+	If I do a physics PhD, what are my eventual path?
+		Data Science
+		HPC Work
+		Researcher
+		Scientific Software worker?
+			Simulation work?
