@@ -49,7 +49,7 @@ Techical jobs:
 	Backend Gaming
 QUESTION:
 	Of the 3 career options, which is best?
-		Leaning toward applications. But systems are nice.
+		Leaning toward applications. But systems are nice. And hardware.
 	If I do a physics PhD, what are my eventual path? Which are these are likely or reasonable?
 		: What are the chances that I can't do one?
 		Data Science
@@ -63,3 +63,4 @@ QUESTION:
 	How should I change my college list?
 		Up UPenn and Penn State?
 		Check US News
+Type of job I like: https://www.indeed.com/q-Cuda-Engineer-jobs.html?vjk=3e7ec22b82498670
