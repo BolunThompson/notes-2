@@ -16,6 +16,7 @@ Second Choice
 		Do I like Econ?
 	Electrial Engineering: If I like hardware and it isn't impacted, consider?
 		Although for hardware I would prefer CE, I think
+	Physics
 Questions:
 	Computer Science vs Computer Engineering vs Computer Science and Engineering (ie: EECS)
 	Is dual majoring a good idea?
