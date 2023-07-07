@@ -10,14 +10,19 @@ Colleges (4 x 350 + 650):
 			Also could remove other colleges and keep both
 				I have been doing that lately
 		Caltech (20k a year) (4 x 200)
-			Major: Physics
-				Although t C
+			Major: CS
+				I'll be doing interdisciplinary work anyways: https://www.ist.caltech.edu/csx/
+				Maybe just switch major if necessary there
+				Physics and Applied & Computational math are also tempting
 		Stanford (7k a year) (3 x 50 + 3 x 250)
+			Major: CS
+				Might be a little worse than its rank for (8 in cs rank, reddit ancdedote) systems, but Stanford CS degree! 
 			REA: 3.7 -> 9.2
 				But claims online no REA bonus
 		UCB (24k before calgrant)
+			Major: 
 			I could also apply for M.E.T
-				Decision: Yes if I'm have time and is applying for EECS anyways, or I think I have a decent chance
+				Decision: No, too low and idc about buisneiss
 				Still considered for EECS once I'm rejected
 				1% acceptance rate
 					Even with my ECs, I have like a 15% chance
