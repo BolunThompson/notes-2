@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Career.md",
+                "file": "Colleges to Apply To.md",
                 "mode": "source",
                 "source": false
               }
@@ -174,11 +174,11 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Career.md",
+                "file": "Colleges to Apply To.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
@@ -191,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Career.md",
+                "file": "Colleges to Apply To.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,22 +207,13 @@
                 "useHierarchy": true
               }
             }
-          },
-          {
-            "id": "bf3c082d2adfad23",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Career.md"
-              }
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -236,10 +227,12 @@
   },
   "active": "eb934159b4071665",
   "lastOpenFiles": [
-    "College Major.md",
-    "Career.md",
     "College Essay Prep Plan.md",
+    "College Major.md",
     "Colleges to Apply To.md",
+    "date_ideas.md",
+    "erica conversation starters.md",
+    "Career.md",
     "cardcaptor_sakura_notes.md",
     "scientific writing seminar notes.md",
     "bolun_thompson_research_plan.pdf",
@@ -255,9 +248,7 @@
     "ca_election_2022.md",
     "outernet.md",
     "hack the wave.md",
-    "erica conversation starters.md",
     "big purchases.md",
-    "date_ideas.md",
     "oshi no ko analysis.md",
     "Asciidoctor.md",
     "2023-reu-research_plan.md",

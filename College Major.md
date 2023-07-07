@@ -1,4 +1,6 @@
 First choices:
+	Choose between comp. physics, CS, and CE depending on which has a better department in the school
+		Focus on the premier subfield -- i'll just focus on that
 	(Computational) Physics: first choice
 	Computer Science: Alternative first choice
 	Computer Engineering / EECS: Leaning against bc too hardware focused, hard to double major

@@ -10,6 +10,8 @@ Colleges (4 x 350 + 650):
 			Also could remove other colleges and keep both
 				I have been doing that lately
 		Caltech (20k a year) (4 x 200)
+			Major: Physics
+				Although t C
 		Stanford (7k a year) (3 x 50 + 3 x 250)
 			REA: 3.7 -> 9.2
 				But claims online no REA bonus
@@ -87,19 +89,6 @@ Colleges (4 x 350 + 650):
 			Con: Low acceptance rate
 			Probably apply Engineering: Computing
 				Despite being an engineering school, seems to have a decent CS program
-		Georgia Tech (after average merit 30k a year) (300)?
-			A bit expensive
-			The aid does not include loan debt
-				Max loan debt 35k for me
-					for 30k a year phd student with 15% of income going to it aiming to pay it off in 10 years
-					With GT it would be 20k if parents pay 25k a year, so that would be reasonable-ish
-				Depends on fin aid offer
-			13% acceptance rate oos (maybe real number lower bc it only has beter applicants)
-				I think it's the same for CS
-					Major is accounted for, but not capped
-			EA for merit scholarships
-			On the other hand, I might get into a comparable UC, so maybe not worth it?
-				Could still apply though in case I don't
 	High Target:
 		UCI
 			Major: CS
@@ -108,6 +97,19 @@ Colleges (4 x 350 + 650):
 			Major: CS
 				CE exists, but I can't tell if it has a higher acceptance rate
 		CSU SLO (23k a year - calgrant)
+		Cooper Union (21k) (3 x 250)
+			Is it a good fit for me bc less CS focus?
+				TODO: Email alumni who went into cs asking about it
+					Would he reccomend it?
+				On the other hand, I could just go into CE
+			Probably apply EE intending to go down the CE track
+				Do a very CS orientated CE track
+				Alternative: General Engineering major and take as many CS clases as possible
+					Maybe I could switch into the major after my first year if I think it's better?
+				TODO: Email Cooper Union admissions office to ask about whether I should apply as EE for CE or GE with CS
+			Quick impression is that it would be best to go into CE, not CS
+				Only apply if CE is still on the table for me
+					Do I like it? I might, but I've never tried it.
 			Major: CSE
 			Is this a high target? It almost seems random
 				Could honestly be a reach or a low target
@@ -242,19 +244,6 @@ Ones I could add to tilt the colleges:
 			Actually has a qb team!
 			Good for international studies -- maybe bokei should apply if she's interested in the field?
 	Small Engineering
-		Cooper Union (21k) (3 x 250)
-			Is it a good fit for me bc less CS focus?
-				TODO: Email alumni who went into cs asking about it
-					Would he reccomend it?
-				On the other hand, I could just go into CE
-			Probably apply EE intending to go down the CE track
-				Do a very CS orientated CE track
-				Alternative: General Engineering major and take as many CS clases as possible
-					Maybe I could switch into the major after my first year if I think it's better?
-				TODO: Email Cooper Union admissions office to ask about whether I should apply as EE for CE or GE with CS
-			Quick impression is that it would be best to go into CE, not CS
-				Only apply if CE is still on the table for me
-					Do I like it? I might, but I've never tried it.
 	Medium Private
 		Case Western (21k)
 			Hesitantly not applying
@@ -281,6 +270,19 @@ Ones I could add to tilt the colleges:
 			TODO: To determine whether I should apply, look at the faculty and see if they have decent faculty in areas i'm interested in
 				Maybe compare with UCM and, if worse, don't apply??
 	Large States
+		Georgia Tech (after average merit 30k a year) (300)?
+			A bit expensive -- too much since there's a good chance I'll go for a masters or PhD
+			The aid does not include loan debt
+				Max loan debt 35k for me
+					for 30k a year phd student with 15% of income going to it aiming to pay it off in 10 years
+					With GT it would be 20k if parents pay 25k a year, so that would be reasonable-ish
+				Depends on fin aid offer
+			13% acceptance rate oos (maybe real number lower bc it only has beter applicants)
+				I think it's the same for CS
+					Major is accounted for, but not capped
+			EA for merit scholarships
+			On the other hand, I might get into a comparable UC, so maybe not worth it?
+				Could still apply though in case I don't
 		! UNC Chapel Hill
 			23k a year
 			8% acceptance rate oos
