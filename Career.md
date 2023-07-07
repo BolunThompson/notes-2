@@ -66,6 +66,9 @@ QUESTION:
 	How should I change my college list?
 		Up UPenn and Penn State?
 		Check US News
+What about CC?
+	Leaning toward no if vs Riverside bc less research opportunities
+		Although it's *definitely* not impossible to do it as a cc, or to transfer and do it then
 Type of job I like: https://www.indeed.com/q-Cuda-Engineer-jobs.html?vjk=3e7ec22b82498670
 Similar situation: https://www.reddit.com/r/AskAcademia/comments/jf658k/does_it_make_sense_to_do_a_phd_if_you_dont_want/
 Current plan for computational physics / scientific software:
