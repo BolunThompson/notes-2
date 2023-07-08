@@ -60,7 +60,8 @@ Colleges (4 x 350 + 650):
 			Major: CS
 				Like this https://cpu.cs.utah.edu/
 			No essays
-				Eccles has some AFTER the other apps are due
+				Eccles has one 500 word essay AFTER the other apps are due
+					The Eccles competitive full ride scholarship has a separate application and essay/recommendation once you are admitted to the Honors College. There are 30 scholarships per year (they have a waitlist for when a handful of first choice students go elsewhere) and 200 or so apply, with 60 shortlisted for interview. There seems to be a desire to select for a balance of interests, majors, home states, etc. to make for an interesting cohort experience.
 			If I get the scholarship, maybe I'll just get into a better school?
 		Cornell (17k) (for A&S: 650, for Eng: 2 x 250)
 			If I don't ED, should I apply?
