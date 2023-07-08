@@ -161,8 +161,9 @@ Colleges (4 x 350 + 650):
 				Maybe perdue instead?
 	Low Target
 		UC Davis
+			Major: Physics or not at all -- would rathe UCSC or UCR for CS
 			Probably better than UCSC, but it's close
-	High Safety?:
+	High Safety?: 
 		QUESTION: Should I just go to cc?
 		UC Santa Cruz (20.5k - 23.5 k before calgrant)
 		UCR

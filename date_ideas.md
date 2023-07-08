@@ -1,10 +1,8 @@
 options:
     : prioritize local ones because excuse and easier for both of us
     reservations:
-	    movie or musical, but already done that
         improv if they existed around here
         historical walk, but seems boring
-        concert, but seems no good ones around here rn and less talking and too similar
         mini golf & bowling, but cost and old
         trampoline park, but embarrising to suggest
         comic book store night, but i'm only familar with pokemon 
@@ -27,6 +25,25 @@ options:
 	Escape room
 	Rock climbing
 	Volunteering
+	Picnic
+		Wear sunscreen!!!
+		Bring water bottle!
+		Things to do:
+		    Walk around? Are there interesting places around?
+		    Before hand, bake?
+		    Bring
+		        Bring blanket to sit on if I have one
+		        Ball
+		        set of cards
+		        A random book?
+		    Phone stuff
+		    Ipad stuff
+		        Project Sekai?
+		            No wifi
+		        other random games
+		    Kindle stuff
+		        Reading
+    Dance
 	Alternative in differnt stiuation
 		 Amusement park
 		 Arcade
@@ -37,6 +54,8 @@ options:
 		 Concert
 		 Biking
 		 Airbnb together
+        concert
+        musical
 	Alternative with groups
 		 Ice skating
 		 Skating
