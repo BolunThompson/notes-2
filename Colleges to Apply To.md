@@ -56,6 +56,12 @@ Colleges (4 x 350 + 650):
 				But claims online that only ~0.5% actual bonus
 			Offers ED II
 			Is it slightly easier than MIT or Stanford?
+		University of Utah with Eccles ???? Maybe?
+			Major: CS
+				Like this https://cpu.cs.utah.edu/
+			No essays
+				Eccles has some AFTER the other apps are due
+			If I get the scholarship, maybe I'll just get into a better school?
 		Cornell (17k) (for A&S: 650, for Eng: 2 x 250)
 			If I don't ED, should I apply?
 				Yes, still has a higher acceptance rate than MIT or stanford
@@ -90,10 +96,9 @@ Colleges (4 x 350 + 650):
 		UCSD
 			What college?
 		Olin (16k) (500)
+			Major: Engineering: Computing
 			Pro: Good grad school placement rate apparently, good job prospects apparently
 			Con: Low acceptance rate
-			Probably apply Engineering: Computing
-				Despite being an engineering school, seems to have a decent CS program
 	High Target:
 		UCI
 			Major: CS
@@ -102,7 +107,9 @@ Colleges (4 x 350 + 650):
 			Major: CS
 				CE exists, but I can't tell if it has a higher acceptance rate
 		CSU SLO (23k a year - calgrant)
+			Major: CE
 		Cooper Union (21k) (3 x 250)
+			Major: CS -> CE
 			Is it a good fit for me bc less CS focus?
 				TODO: Email alumni who went into cs asking about it
 					Would he reccomend it?
@@ -298,6 +305,10 @@ Ones I could add to tilt the colleges:
 			9.2% acceptance rate -- like cornell but just worse for CS?
 		(harvard / princeton / columbia / yale)
 Next Steps:
+	Figure out major
+		RN: CS/CE to all schools except those where there is not a lot of interesting cs reserach compared to its rank
+			I can't really judge physics research bc i'm not in the field; however, most elds of physics have computational work in them, so I think I'm safe
+			CE where it's the only option or it has a less EE focused CE or easier to get in and transfer
 	Switch all college emails to me@bolun.dev
 	Figure out, of my potential high reaches, which I have the best chance to get in to (ie: that I have the best fit for) and apply to those
 		Ask in Chance me?
@@ -872,12 +883,6 @@ Limited Review Removals:
 		28k a year, but maybe I could extra merit scholarships
 Removed but maybe could do with merit scholarships
 	Depuaw bc 29k a year
-	University of Utah bc 44k a year before merit scholarships
-		Maybe I could get merit schoolarships?
-			But is it worth the effort?
-				Maybe only with honors college?
-			Maybe - 20k with most generous merit
-			Also eccles scholarship full ride, but at that point just get into ucsd or somethin
 	Rose Hulman bc bad fin aid
 		Maybe like 40k a year?
 		Maybe with other school scholarships I could stretch it
