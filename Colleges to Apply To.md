@@ -430,9 +430,11 @@ Takeaways:
 				Might be more since I'm very CS focused?
 		UCLA
 			Only considers first choice major, typically
+			(maybe apply )
 		UCSC
 			Might consider second choice major -- doensn't say online
 		The rest don't consider major during admission to the university
+			TODO: Even for UCI, UCSB
 	Competitiveness:
 		Competitive for all, but ucla, ucb are high reaches
 		Stats are competitve for top UCs, see: https://talk.collegeconfidential.com/t/chance-my-son-rising-senior-to-caltech-stanford-ucs-cal-poly-slo-cs-or-me/3615436
