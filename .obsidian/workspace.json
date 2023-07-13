@@ -25,7 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Colleges to Apply To.md",
+                "file": "outernet.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0911f9a583a4626c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "outernet todo.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -174,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Colleges to Apply To.md",
+                "file": "outernet todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Colleges to Apply To.md",
+                "file": "outernet todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Colleges to Apply To.md"
+                "file": "outernet todo.md"
               }
             }
           }
@@ -235,11 +247,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eb934159b4071665",
+  "active": "0911f9a583a4626c",
   "lastOpenFiles": [
+    "outernet.md",
+    "outernet todo.md",
+    "Colleges to Apply To.md",
     "College Essay Prep Plan.md",
     "date_ideas.md",
-    "Colleges to Apply To.md",
     "College Major.md",
     "erica conversation starters.md",
     "Career.md",
@@ -256,7 +270,6 @@
     "fall_2022.md",
     "blog_post_ideas.md",
     "ca_election_2022.md",
-    "outernet.md",
     "hack the wave.md",
     "big purchases.md",
     "oshi no ko analysis.md",
