@@ -36,8 +36,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "df169b4b6a6545b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "debit card info.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -111,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-reu/Presentation Abstract.md",
+                "file": "debit card info.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-reu/Presentation Abstract.md",
+                "file": "debit card info.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-reu/Presentation Abstract.md"
+                "file": "debit card info.md"
               }
             }
           }
@@ -172,11 +185,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9fe3fc3060c23650",
+  "active": "df169b4b6a6545b9",
   "lastOpenFiles": [
+    "2023-reu/Presentation Abstract.md",
+    "debit card info.md",
     "2023-reu/2023-reu-research_plan.md",
     "Ideas 2.md",
-    "2023-reu/Presentation Abstract.md",
     "2023-reu/new2.jpg",
     "2023-reu/lightning-talk.pdf",
     "2023-reu/lightning-talk.md",
