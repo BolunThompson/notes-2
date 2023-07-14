@@ -80,4 +80,4 @@ Paragraph format -- like State, Explain, Exlemify, summarize
 	Explain
 	Give an example
 	Summarize that leads logically to the topic sentence in the next paragraph
-Lectures at courses.physics.illinois.edu/PHYS496/sp2023/lectures
+Lectures at courses.physics.illinois.edu/PHYS496/sp2023/lectures.html

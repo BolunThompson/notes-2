@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "outernet.md",
+                "file": "2023-reu/2023-reu-research_plan.md",
                 "mode": "source",
                 "source": false
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gpu",
+                "query": "reu",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -186,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "outernet.md",
+                "file": "2023-reu/2023-reu-research_plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "outernet.md",
+                "file": "2023-reu/2023-reu-research_plan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "outernet.md"
+                "file": "2023-reu/2023-reu-research_plan.md"
               }
             }
           }
@@ -249,17 +249,26 @@
   },
   "active": "0911f9a583a4626c",
   "lastOpenFiles": [
+    "2023-reu/latex_images/pg-05.jpg",
+    "2023-reu/latex_images/pg-03.jpg",
+    "2023-reu/galaxy0030_3dviz.png",
+    "2023-reu/block_amr.png",
+    "2023-reu/block_selection.svg",
+    "2023-reu/Presentation Abstract.md",
+    "2023 YT Internship notes.md",
+    "scientific writing seminar notes.md",
+    "web_stack_notes.md",
+    "College Essay Prep Plan.md",
+    "44 74 notes.md",
+    "outernet.md",
     "outernet todo.md",
     "outernet_travel.md",
-    "outernet.md",
     "Colleges to Apply To.md",
-    "College Essay Prep Plan.md",
     "date_ideas.md",
     "College Major.md",
     "erica conversation starters.md",
     "Career.md",
     "cardcaptor_sakura_notes.md",
-    "scientific writing seminar notes.md",
     "bolun_thompson_research_plan.pdf",
     "Ideas 2.md",
     "2023-reu/lightning-talk.md~",
@@ -278,11 +287,6 @@
     "2023-reu-research_plan.md",
     "2023-reu-research_plan.md~",
     "4913",
-    "2023 Summer Plans.md",
-    "2023 YT Internship notes.md",
-    "hack the wave marketing.md",
-    "misc_todo.md",
-    "mn_next_steps_7-1-22.md",
     "LICENSE",
     "Untitled",
     "Untitled.canvas",
