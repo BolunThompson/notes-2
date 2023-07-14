@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "outernet todo.md",
+                "file": "outernet.md",
                 "mode": "source",
                 "source": false
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "outernet todo.md",
+                "file": "outernet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "outernet todo.md",
+                "file": "outernet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "outernet todo.md"
+                "file": "outernet.md"
               }
             }
           }
@@ -249,8 +249,9 @@
   },
   "active": "0911f9a583a4626c",
   "lastOpenFiles": [
-    "outernet.md",
     "outernet todo.md",
+    "outernet_travel.md",
+    "outernet.md",
     "Colleges to Apply To.md",
     "College Essay Prep Plan.md",
     "date_ideas.md",
@@ -282,7 +283,6 @@
     "hack the wave marketing.md",
     "misc_todo.md",
     "mn_next_steps_7-1-22.md",
-    "hack club comments.md",
     "LICENSE",
     "Untitled",
     "Untitled.canvas",

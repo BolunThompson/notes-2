@@ -1,12 +1,12 @@
 Before:
-	Signup for stage time for debates
-	Get somebody *else* to moderate debates and dw questions
-	Figure out how to get signups for events -- do announcement there?
-	Figure out when and where to do these
-	Buy prizes
+	Get clear membership
 During:
-	Go to UTC and get pronto card
+	Do annoucement sometime there
+		At the very least I could ping all in outernet
+	Go to UTC and get pronto card or get dad's and send pic
 	Write additonal lateral questions
 		Do tournament *Sunday* afternoon to give me time to write
-	Write asctual lightning talk and prep
+	Figure out who would be interested in moderating (then), if any
+	Figure out where to do it
+	Run the thing!
 	
