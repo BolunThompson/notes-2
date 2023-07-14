@@ -4,33 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "66b19deba16694e5",
+        "id": "a48803c6f4a88b16",
         "type": "tabs",
         "children": [
-          {
-            "id": "cb5c6f05ceac8adc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ideas 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eb934159b4071665",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "outernet.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
           {
             "id": "0911f9a583a4626c",
             "type": "leaf",
@@ -42,77 +18,26 @@
                 "source": false
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "a1d4e4c5e85660c3",
+        "type": "tabs",
+        "children": [
           {
-            "id": "45229aee8cdf1f9c",
+            "id": "9fe3fc3060c23650",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BHMS QB Improvement.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2a59f790877aee59",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1052b31afbe8fa3b",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "f3d012168fab23b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "date_ideas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a326afdd169827b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Colleges to Apply To.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d0191272de93f2f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Colleges to Apply To.md",
+                "file": "2023-reu/Presentation Abstract.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -141,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "reu",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -186,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-reu/2023-reu-research_plan.md",
+                "file": "2023-reu/Presentation Abstract.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-reu/2023-reu-research_plan.md",
+                "file": "2023-reu/Presentation Abstract.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-reu/2023-reu-research_plan.md"
+                "file": "2023-reu/Presentation Abstract.md"
               }
             }
           }
@@ -247,14 +172,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0911f9a583a4626c",
+  "active": "9fe3fc3060c23650",
   "lastOpenFiles": [
+    "2023-reu/2023-reu-research_plan.md",
+    "Ideas 2.md",
+    "2023-reu/Presentation Abstract.md",
+    "2023-reu/new2.jpg",
+    "2023-reu/lightning-talk.pdf",
+    "2023-reu/lightning-talk.md",
+    "2023-reu/galaxy0030_Slice_z_density.png",
+    "2023-reu/galaxy0030_3dviz.png",
+    "2023-reu/block_selection.svg",
+    "2023-reu/apple_3d_octree.png",
+    "2023-reu/block_amr.png",
     "2023-reu/latex_images/pg-05.jpg",
     "2023-reu/latex_images/pg-03.jpg",
-    "2023-reu/galaxy0030_3dviz.png",
-    "2023-reu/block_amr.png",
-    "2023-reu/block_selection.svg",
-    "2023-reu/Presentation Abstract.md",
     "2023 YT Internship notes.md",
     "scientific writing seminar notes.md",
     "web_stack_notes.md",
@@ -270,12 +202,9 @@
     "Career.md",
     "cardcaptor_sakura_notes.md",
     "bolun_thompson_research_plan.pdf",
-    "Ideas 2.md",
     "2023-reu/lightning-talk.md~",
     "2023-reu/4913",
-    "2023-reu/lightning-talk.pdf",
     "2023-reu/yt.csl",
-    "2023-reu/new2.jpg",
     "Fall 2023 plan.md",
     "fall_2022.md",
     "blog_post_ideas.md",
@@ -283,8 +212,6 @@
     "hack the wave.md",
     "big purchases.md",
     "oshi no ko analysis.md",
-    "Asciidoctor.md",
-    "2023-reu-research_plan.md",
     "2023-reu-research_plan.md~",
     "4913",
     "LICENSE",
